@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-11-27T16:57:52.127761",
+  "timestamp": "2025-11-28T16:56:37.380052",
   "ticker": "DBXD",
-  "data_points": 4748,
+  "data_points": 4749,
   "latest_signal": {
-    "date": "2025-11-26",
+    "date": "2025-11-27",
     "signal": "BUY",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.859693908854683,
-    "oscillator_value": -5.132695000000012,
-    "signal_strength": 5.312566255838516,
+    "phase_value": -2.755614388343026,
+    "oscillator_value": -5.213944999999967,
+    "signal_strength": 5.633062192482096,
     "confidence": "LOW",
-    "price": 222.35,
-    "timestamp": "2025-11-27T16:57:49.633315"
+    "price": 222.85,
+    "timestamp": "2025-11-28T16:56:35.024734"
   },
   "backtest_metrics": {
-    "total_return_%": 128.2632727600448,
-    "max_drawdown_%": 2.322294274941032,
-    "sharpe_ratio": 1.3183201167849299,
-    "sortino_ratio": 1.0567290548766786,
-    "calmar_ratio": 6.553136844314916,
+    "total_return_%": 128.73858728407222,
+    "max_drawdown_%": 2.3158369249737225,
+    "sharpe_ratio": 1.3215850488683523,
+    "sortino_ratio": 1.0622310458127964,
+    "calmar_ratio": 6.587292076734863,
     "total_trades": 24,
     "win_rate_%": 79.16666666666666,
-    "profit_factor": 25.670559192132576
+    "profit_factor": 25.75868474967125
   },
   "cycle_analysis": {
     "dominant_period": 126.0,
