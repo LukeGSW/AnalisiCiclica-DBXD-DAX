@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-12-01T17:01:33.619451",
+  "timestamp": "2025-12-02T17:02:42.119106",
   "ticker": "DBXD",
-  "data_points": 4750,
+  "data_points": 4751,
   "latest_signal": {
-    "date": "2025-11-28",
-    "signal": "BUY",
+    "date": "2025-12-01",
+    "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.69060297043223,
-    "oscillator_value": -5.105195000000009,
-    "signal_strength": 5.534256453781836,
+    "phase_value": -2.6366649700813034,
+    "oscillator_value": -4.925195000000031,
+    "signal_strength": 1.647644019824551,
     "confidence": "LOW",
-    "price": 223.6,
-    "timestamp": "2025-12-01T17:01:31.161977"
+    "price": 221.15,
+    "timestamp": "2025-12-02T17:02:40.350701"
   },
   "backtest_metrics": {
     "total_return_%": 128.73858728407222,
     "max_drawdown_%": 2.3158369249737225,
-    "sharpe_ratio": 1.3215850488683523,
-    "sortino_ratio": 1.0622310458127964,
-    "calmar_ratio": 6.587292076734863,
+    "sharpe_ratio": 1.3211186912131663,
+    "sortino_ratio": 1.0614861432561256,
+    "calmar_ratio": 6.5826726573262135,
     "total_trades": 24,
     "win_rate_%": 79.16666666666666,
     "profit_factor": 25.75868474967125
