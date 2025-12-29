@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-26T16:57:06.278404",
+  "timestamp": "2025-12-29T16:58:56.407820",
   "ticker": "DBXD",
   "data_points": 4767,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 14.219867159467116,
     "confidence": "LOW",
     "price": 228.05,
-    "timestamp": "2025-12-26T16:57:04.466288"
+    "timestamp": "2025-12-29T16:58:54.462103"
   },
   "backtest_metrics": {
     "total_return_%": 131.455159746202,
