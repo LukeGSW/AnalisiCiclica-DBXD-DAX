@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T16:58:31.400193",
+  "timestamp": "2026-01-01T16:59:54.512198",
   "ticker": "DBXD",
   "data_points": 4769,
   "latest_signal": {
@@ -9,10 +9,10 @@
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
     "phase_value": 0.951732367591482,
     "oscillator_value": 3.1137500000000102,
-    "signal_strength": 16.602277659243338,
+    "signal_strength": 16.602277659243324,
     "confidence": "LOW",
     "price": 229.75,
-    "timestamp": "2025-12-31T16:58:29.437100"
+    "timestamp": "2026-01-01T16:59:52.853556"
   },
   "backtest_metrics": {
     "total_return_%": 131.6586415458855,
